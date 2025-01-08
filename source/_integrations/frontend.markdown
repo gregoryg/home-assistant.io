@@ -73,7 +73,7 @@ The example above defines two themes named `happy` and `sad`. For each theme, yo
 #### Primary and accent color
 
 Primary and accent colors are the main colors of the application.
-They can be changed it using `primary-color` and `accent-color` variables.
+They can be changed using `primary-color` and `accent-color` variables.
 
 #### State color
 
